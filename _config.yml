@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Yuan (Ryan) Ren's Personal Website"
 title_separator          : "-"
-name                     : &name "Yuan Ren"
+name                     : &name "Yuan (Ryan) Ren"
 description              : &description "Yuan Ren's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url: "https://renyuanfinance.github.io"
 baseurl: "/renyuan.github.io"
